@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T13:28:17.171Z'
-dateModified: '2016-03-08T13:25:27.352Z'
+datePublished: '2016-03-08T13:40:35.735Z'
+dateModified: '2016-03-08T13:32:25.578Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Gracie Museum History</h1><img src="http://nebula.wsimg.com/3d330880e72dbc1b1b8730514c1d5612?AccessKeyId=4A87CEA24BCD93724329&amp;disposition=0&amp;alloworigin=1" /></article>
+<article style=""><h1>Gracie Museum History</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55d11a94bc90008e88b92d83aa813bc796abb09a.jpg" /></article>
